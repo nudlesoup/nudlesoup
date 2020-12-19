@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⛅️ I’m currently working at <a href="https://www.iri.upc.edu/research">Institut de Robotica</a>,Barcelona as a computer vision researcher.
+- ⛅️ I’m currently working at <a href="https://www.iri.upc.edu/research">Institut de Robotica</a>, Barcelona as a computer vision researcher.
 - 🎈 I'm advised by <a href="https://www.iri.upc.edu/people/fmoreno/">Prof. Francesc Moreno</a> and <a href="https://www.iri.upc.edu/people/mdimiccoli/">Prof. Mareilla Dimiccoli</a> .
 - 📂 Previously, I was a Software Developer at <a href="http://www.tescobengaluru.com/">Tesco Technologies</a>.
 - 🐧 Project Head @ VIT Linux User Group.
