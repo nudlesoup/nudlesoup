@@ -6,7 +6,7 @@
 - 📂 Previously, I was a Software Developer at <a href="http://www.tescobengaluru.com/">Tesco Technologies</a>.
 - 📫 How to reach me: ameyad1995@gmail.com 
 
-[Blogs] (medium.com/@ameyadhamnaskar) | [Blogs](http://www.medium.com/@ameyadhamnaskar)
+[Blogs](http://www.medium.com/@ameyadhamnaskar)
 
 
 [![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
