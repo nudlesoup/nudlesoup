@@ -1,15 +1,16 @@
 👋 Hi there!
 
-🧠 Machine Learning Engineer at Optum — building and scaling AI systems for real-world impact.
+Machine Learning Engineer specializing in scalable vision systems and production-grade AI.
+I build, optimize, and deploy end-to-end ML solutions that perform reliably in the real world.
 
-🚀 Designed & deployed computer vision models across 2,000+ NVIDIA Jetson edge devices, improving pharmacy automation throughput by 25%.
+🚀 AI @ Scale: Architected computer vision and optimization systems across 2,000+ NVIDIA Jetson edge devices, boosting prescription throughput +25% and reducing latency in pharmacy automation.
 
-⚡ Optimized real-time inference using TensorRT, quantization, and efficient tracking, boosting speed by 40% and reducing memory by 30%.
+⚡ Real-Time Inference Optimization: Deployed YOLOv8 + DeepSORT with TensorRT, FP16/INT8 quantization, and tracking improvements — achieving +40% faster inference and 30% lower memory.
 
-🔍 Research background in self-supervised learning, 3D human ego-pose estimation, and CV for robotics, with work published in Pattern Recognition (Elsevier, 2023).
+🧪 Research + Innovation: Published in Pattern Recognition (2023) for self-supervised 3D egocentric human pose estimation, improving SOTA by +12%.
 
-💡 Experience across the ML lifecycle — data, modeling, MLOps, deployment, measurement, and optimization.
+🧰 Full-Stack ML Ownership: Data → Modeling → MLOps → Deployment → Monitoring, with Docker, CI/CD, model registry, edge deployment, and observability.
 
-💼 Previously: Computer Vision Researcher at CSIC-UPC (Barcelona) • Software Engineer at Tesco
+🛠️ Prior experience includes sim2real CV at Radius AI (+10 mAP, 2× labeling efficiency with SAM) and software engineering at Tesco (optimized routing for 50,000+ POS systems).
 
 🌐 Portfolio: <a href="https://nudlesoup.github.io">https://nudlesoup.github.io
